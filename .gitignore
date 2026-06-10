@@ -1,0 +1,16 @@
+# Build output
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.o
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
